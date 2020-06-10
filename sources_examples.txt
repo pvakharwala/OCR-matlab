@@ -1,0 +1,2 @@
+C:\Users\PARANTAP\Documents\MATLAB\Examples\vision\RecognizeTextWithinAnImageExample
+C:\Users\PARANTAP\Documents\MATLAB\Examples\nnet\appcr1
